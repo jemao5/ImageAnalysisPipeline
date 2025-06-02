@@ -1,0 +1,4 @@
+/.venv
+/data
+/functions.py
+/__pycache__

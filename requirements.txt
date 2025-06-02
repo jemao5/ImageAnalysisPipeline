@@ -1,0 +1,8 @@
+numpy
+matplotlib
+seaborn
+pims
+nd2reader
+tifffile
+scikit-image
+cellpose

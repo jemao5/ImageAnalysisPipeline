@@ -1,8 +1,6 @@
-numpy
-matplotlib
-seaborn
-pims
-nd2reader
-tifffile
-scikit-image
-cellpose
+numpy==1.23.5
+tifffile==2023.7.10
+cellpose==3.0.6
+matplotlib==3.7.1
+seaborn==0.12.2
+nd2==0.6.1
